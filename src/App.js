@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          TimeStub<code>Hello</code> and save to reload.
+          TimeStub<code>Hello-me</code> Nzaya muia.
         </p>
         <a
           className="TimeStub"
